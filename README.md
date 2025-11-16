@@ -136,7 +136,7 @@ Each sheet contains:
 
 ```
 st_miner/
-├── __init__.py          # Package initialization
+├── init.py          # Package initialization
 ├── cli.py               # Main CLI entry point
 ├── config.py            # Configuration and constants
 ├── utils.py             # Utility functions
@@ -145,6 +145,7 @@ st_miner/
 ├── tenx_enhanced.py       
 ├── htan_fetcher.py      # HTAN data fetcher
 └── exporter.py          # Excel export with organization
+├── st_miner.py  
 ```
 
 
