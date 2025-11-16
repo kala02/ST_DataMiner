@@ -1,4 +1,7 @@
 # ST_DataMiner
+
+I had trouble finding ST data during my thesis period. It took me a long time to find ST data across various sources. So, I decided to make this tool that will be helpful to others in the future.
+
 The Spatial Transcriptomics Data Miner is a  command-line tool that automatically aggregates spatial transcriptomics datasets from multiple public repositories into a single, organized Excel catalog. It streamlines the process of discovering and accessing spatial gene expression data for research purposes.
 
 
