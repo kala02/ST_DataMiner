@@ -131,18 +131,6 @@ Each sheet contains:
 - **Publication** - PMID (properly extracted)
 - **Download Link** - Direct link to dataset
 
-## Improvements Over Original Script
-
-1. ✅ **Fixed Empty Fields**: Experiment Type and Publication now properly extracted
-2. 🔧 **Robust XML Parsing**: Handles both List and String type XML elements
-3. 🌐 **Multi-platform Support**: Aggregates from NCBI, 10x, and HTAN
-4. 🏷️ **Platform Mapping**: GPL IDs mapped to readable names
-5. 🧬 **Organism Separation**: Automatically separates human vs non-human
-6. 📊 **Better Organization**: Multiple organization options
-7. 🎯 **Modular Code**: Clean, maintainable, extensible architecture
-8. ⚙️ **CLI Interface**: Full command-line argument support
-9. 📈 **Progress Tracking**: Real-time progress indicators
-10. 📋 **Summary Statistics**: Automatic summary generation
 
 ## Architecture
 
